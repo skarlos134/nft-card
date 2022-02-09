@@ -9,8 +9,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/skarlos134/nft-card.git)
-- Live Site URL: [Add live site URL here](https://skarlos134.github.io/nft-card/)
+- Solution URL:(https://github.com/skarlos134/nft-card.git)
+- Live Site URL:(https://skarlos134.github.io/nft-card/)
 
 ## My process
 
@@ -22,5 +22,5 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-- Website - [Add your name here](https://www.soycarloszuluaga.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/skarlos134)
+- Website -(https://www.soycarloszuluaga.com)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/skarlos134)
